@@ -1,3 +1,9 @@
+# LISTA DE CONTATOS - Desenvolvida em React
+Implementação de:
+- Editar Contato
+- Remover Contato
+- Cadastrar Novo Contato
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
