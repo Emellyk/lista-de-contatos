@@ -1,4 +1,4 @@
-# LISTA DE CONTATOS - Desenvolvida em React
+# Lista de Contatos - Desenvolvida em React
 Implementação de:
 - Editar Contato
 - Remover Contato
